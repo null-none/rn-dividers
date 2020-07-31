@@ -1,6 +1,6 @@
 # rn-divider
 
-a divider component for react-natives
+Divider component for react-natives
 
 # Install
 
