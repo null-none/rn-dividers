@@ -1,11 +1,11 @@
-# rn-divider
+# rn-dividers
 
 Divider component for react-natives
 
 # Install
 
 ```js
-yarn add rn-divider
+yarn add rn-dividers
 // or
 npm install rn-dividers --save
 ```
